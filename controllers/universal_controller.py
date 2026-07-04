@@ -1,6 +1,6 @@
 import os
 
-from modules.universal_search import search_apps
+from core.app_search import search_apps
 from core.search import search_files
 
 

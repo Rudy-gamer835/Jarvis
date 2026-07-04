@@ -1,10 +1,10 @@
 import json
 from pathlib import Path
 
-from modules.scanners.shortcut_scanner import scan_shortcuts
-from modules.scanners.exe_scanner import scan_program_files
-from modules.scanners.registry_scanner import scan_registry
-from modules.scanners.uwp_scanner import scan_uwp
+from scanners.shortcut_scanner import scan_shortcuts
+from scanners.exe_scanner import scan_program_files
+from scanners.registry_scanner import scan_registry
+from scanners.uwp_scanner import scan_uwp
 
 
 DATA_DIR = Path("data")

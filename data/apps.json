@@ -337,27 +337,21 @@
     },
     "calculator": {
         "name": "Calculator",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "calendar": {
         "name": "Calendar",
-        "type": "uwp",
         "path": "",
         "appid": "microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "camera": {
         "name": "Camera",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsCamera_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "captoinfo": {
         "name": "captoinfo",
@@ -505,11 +499,9 @@
     },
     "click to do": {
         "name": "Click to Do",
-        "type": "uwp",
         "path": "",
         "appid": "MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy!ClickToDoApp",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "client": {
         "name": "client",
@@ -521,11 +513,9 @@
     },
     "clock": {
         "name": "Clock",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsAlarms_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "cloud game": {
         "name": "Cloud Game",
@@ -785,11 +775,9 @@
     },
     "defragment and optimize drives": {
         "name": "Defragment and Optimize Drives",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\dfrgui.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "devcon": {
         "name": "devcon",
@@ -921,11 +909,9 @@
     },
     "dts audio processing": {
         "name": "DTS Audio Processing",
-        "type": "uwp",
         "path": "",
         "appid": "DTSInc.DTSAudioProcessing_t5j2fzbtdg37r!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "du": {
         "name": "du",
@@ -1217,11 +1203,9 @@
     },
     "feedback hub": {
         "name": "Feedback Hub",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "file": {
         "name": "file",
@@ -1353,11 +1337,9 @@
     },
     "game bar": {
         "name": "Game Bar",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "gamecenter-oc": {
         "name": "GameCenter-OC",
@@ -1457,19 +1439,15 @@
     },
     "get help": {
         "name": "Get Help",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.GetHelp_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "get started": {
         "name": "Get Started",
-        "type": "uwp",
         "path": "",
         "appid": "MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WebExperienceHost",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "getconf": {
         "name": "getconf",
@@ -1545,11 +1523,9 @@
     },
     "git faqs (frequently asked questions)": {
         "name": "Git FAQs (Frequently Asked Questions)",
-        "type": "uwp",
         "path": "",
         "appid": "https://gitforwindows.org/faq",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "git gui": {
         "name": "Git GUI",
@@ -2233,11 +2209,9 @@
     },
     "instagram": {
         "name": "Instagram",
-        "type": "uwp",
         "path": "",
         "appid": "Facebook.InstagramBeta_8xx8rvfyw5nnt!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "install": {
         "name": "install",
@@ -2297,19 +2271,15 @@
     },
     "intelr graphics command center": {
         "name": "Intelr Graphics Command Center",
-        "type": "uwp",
         "path": "",
         "appid": "AppUp.IntelGraphicsExperience_8j3eq9eme6ctt!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "intelr rapid storage technology application": {
         "name": "Intelr Rapid Storage Technology Application",
-        "type": "uwp",
         "path": "",
         "appid": "AppUp.IntelOptaneMemoryandStorageManagement_8j3eq9eme6ctt!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "iscsi initiator": {
         "name": "iSCSI Initiator",
@@ -2337,11 +2307,9 @@
     },
     "journal": {
         "name": "Journal",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.MicrosoftJournal_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "kbxutil": {
         "name": "kbxutil",
@@ -2449,19 +2417,15 @@
     },
     "linkedin": {
         "name": "LinkedIn",
-        "type": "uwp",
         "path": "",
         "appid": "7EE7776C.LinkedInforWindows_w1wdnht996qgy!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "live captions": {
         "name": "Live captions",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\LiveCaptions.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "livecaptions": {
         "name": "LiveCaptions",
@@ -2473,11 +2437,9 @@
     },
     "lively wallpaper": {
         "name": "Lively Wallpaper",
-        "type": "uwp",
         "path": "",
         "appid": "12030rocksdanister.LivelyWallpaper_97hta09mmv6hy!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "ln": {
         "name": "ln",
@@ -2569,11 +2531,9 @@
     },
     "magnifier": {
         "name": "Magnifier",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\magnify.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "magnify": {
         "name": "Magnify",
@@ -2585,19 +2545,15 @@
     },
     "mail": {
         "name": "Mail",
-        "type": "uwp",
         "path": "",
         "appid": "microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "maps": {
         "name": "Maps",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsMaps_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "mavinject32": {
         "name": "MavInject32",
@@ -2617,11 +2573,9 @@
     },
     "media player": {
         "name": "Media Player",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "meg381_kc": {
         "name": "MEG381_KC",
@@ -2665,19 +2619,15 @@
     },
     "microsoft 365 copilot": {
         "name": "Microsoft 365 Copilot",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft clipchamp": {
         "name": "Microsoft Clipchamp",
-        "type": "uwp",
         "path": "",
         "appid": "Clipchamp.Clipchamp_yxz26nhyzhsrt!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft edge": {
         "name": "Microsoft Edge",
@@ -2721,35 +2671,27 @@
     },
     "microsoft store": {
         "name": "Microsoft Store",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsStore_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft teams": {
         "name": "Microsoft Teams",
-        "type": "uwp",
         "path": "",
         "appid": "MSTeams_8wekyb3d8bbwe!MSTeams",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft teams (personal)": {
         "name": "Microsoft Teams (personal)",
-        "type": "uwp",
         "path": "",
         "appid": "MicrosoftTeams_8wekyb3d8bbwe!MicrosoftTeams",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft to do": {
         "name": "Microsoft To Do",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.Todos_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft visual c++ 2022 x64 additional runtime - 14.51.36247": {
         "name": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247",
@@ -2809,11 +2751,9 @@
     },
     "microsoft whiteboard": {
         "name": "Microsoft Whiteboard",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.Whiteboard_8wekyb3d8bbwe!Whiteboard",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "microsoft xna framework redistributable 4.0": {
         "name": "Microsoft XNA Framework Redistributable 4.0",
@@ -2961,11 +2901,9 @@
     },
     "mixed reality portal": {
         "name": "Mixed Reality Portal",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "mkdir": {
         "name": "mkdir",
@@ -3017,11 +2955,9 @@
     },
     "mobile plans": {
         "name": "Mobile Plans",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.OneConnect_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "model3dtranscoderwin32": {
         "name": "model3dtranscoderwin32",
@@ -3041,11 +2977,9 @@
     },
     "movies & tv": {
         "name": "Movies & TV",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "mpcmdrun": {
         "name": "MpCmdRun",
@@ -3161,11 +3095,9 @@
     },
     "msi center": {
         "name": "MSI Center",
-        "type": "uwp",
         "path": "",
         "appid": "9426MICRO-STARINTERNATION.MSICenter_kzh8wxbdkxb8p!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "msi center sdk": {
         "name": "MSI Center SDK",
@@ -3465,11 +3397,9 @@
     },
     "news": {
         "name": "News",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.BingNews_8wekyb3d8bbwe!AppexNews",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "nice": {
         "name": "nice",
@@ -3505,11 +3435,9 @@
     },
     "notepad": {
         "name": "Notepad",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsNotepad_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "notification_click_helper": {
         "name": "notification_click_helper",
@@ -4065,11 +3993,9 @@
     },
     "outlook": {
         "name": "Outlook",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "outlook (classic)": {
         "name": "Outlook (classic)",
@@ -4105,11 +4031,9 @@
     },
     "paint": {
         "name": "Paint",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.Paint_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "passkey_authenticator_plugin": {
         "name": "passkey_authenticator_plugin",
@@ -4201,19 +4125,15 @@
     },
     "phone link": {
         "name": "Phone Link",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.YourPhone_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "photos": {
         "name": "Photos",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.Windows.Photos_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "pinentry": {
         "name": "pinentry",
@@ -4305,19 +4225,15 @@
     },
     "power automate": {
         "name": "Power Automate",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe!PAD.Console",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "power automate troubleshooter": {
         "name": "Power Automate Troubleshooter",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe!PAD.Troubleshooter",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "powerpnt": {
         "name": "POWERPNT",
@@ -4609,11 +4525,9 @@
     },
     "python install manager": {
         "name": "Python install manager",
-        "type": "uwp",
         "path": "",
         "appid": "PythonSoftwareFoundation.PythonManager_3847v3x7pw1km!Py.Manager.Exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "python launcher": {
         "name": "Python Launcher",
@@ -4633,11 +4547,9 @@
     },
     "quick assist": {
         "name": "Quick Assist",
-        "type": "uwp",
         "path": "",
         "appid": "MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "rainmeter": {
         "name": "Rainmeter",
@@ -4681,11 +4593,9 @@
     },
     "realtek audio console": {
         "name": "Realtek Audio Console",
-        "type": "uwp",
         "path": "",
         "appid": "RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "realtek audio driver": {
         "name": "Realtek Audio Driver",
@@ -4713,11 +4623,9 @@
     },
     "recovery drive": {
         "name": "Recovery Drive",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\RecoveryDrive.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "recovery1": {
         "name": "Recovery1",
@@ -5089,11 +4997,9 @@
     },
     "settings": {
         "name": "Settings",
-        "type": "uwp",
         "path": "",
         "appid": "windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "setup": {
         "name": "setup",
@@ -5249,19 +5155,15 @@
     },
     "snipping tool": {
         "name": "Snipping Tool",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.ScreenSketch_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "solitaire & casual games": {
         "name": "Solitaire & Casual Games",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "sort": {
         "name": "sort",
@@ -5273,11 +5175,9 @@
     },
     "sound recorder": {
         "name": "Sound Recorder",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "split": {
         "name": "split",
@@ -5289,11 +5189,9 @@
     },
     "spotify": {
         "name": "Spotify",
-        "type": "uwp",
         "path": "",
         "appid": "SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "sqldumper": {
         "name": "SQLDumper",
@@ -5425,11 +5323,9 @@
     },
     "steam support center": {
         "name": "Steam Support Center",
-        "type": "uwp",
         "path": "",
         "appid": "http://support.steampowered.com/",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "steam_monitor": {
         "name": "steam_monitor",
@@ -5505,11 +5401,9 @@
     },
     "sticky notes": {
         "name": "Sticky Notes",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "sticky notes (new)": {
         "name": "Sticky Notes (new)",
@@ -5561,11 +5455,9 @@
     },
     "support": {
         "name": "Support",
-        "type": "uwp",
         "path": "",
         "appid": "http://www.gog.com/support/batman_arkham_knight",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "sync": {
         "name": "sync",
@@ -5689,11 +5581,9 @@
     },
     "terminal": {
         "name": "Terminal",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.WindowsTerminal_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "test": {
         "name": "test",
@@ -5761,19 +5651,15 @@
     },
     "translator": {
         "name": "Translator",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.BingTranslator_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "translucenttb": {
         "name": "TranslucentTB",
-        "type": "uwp",
         "path": "",
         "appid": "28017CharlesMilette.TranslucentTB_v826wp6bftszj!TranslucentTB",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "true": {
         "name": "true",
@@ -6113,11 +5999,9 @@
     },
     "voice access": {
         "name": "Voice access",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\voiceaccess.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "voiceaccess": {
         "name": "VoiceAccess",
@@ -6241,19 +6125,15 @@
     },
     "weather": {
         "name": "Weather",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.BingWeather_8wekyb3d8bbwe!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "whatsapp": {
         "name": "WhatsApp",
-        "type": "uwp",
         "path": "",
         "appid": "5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "which": {
         "name": "which",
@@ -6289,11 +6169,9 @@
     },
     "windows backup": {
         "name": "Windows Backup",
-        "type": "uwp",
         "path": "",
         "appid": "MicrosoftWindows.Client.CBS_cw5n1h2txyewy!WindowsBackup",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "windows defender firewall with advanced security": {
         "name": "Windows Defender Firewall with Advanced Security",
@@ -6313,11 +6191,9 @@
     },
     "windows memory diagnostic": {
         "name": "Windows Memory Diagnostic",
-        "type": "uwp",
         "path": "",
         "appid": "{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\\MdSched.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "windows powershell": {
         "name": "Windows PowerShell",
@@ -6353,19 +6229,15 @@
     },
     "windows security": {
         "name": "Windows Security",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "windows tools": {
         "name": "Windows Tools",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.Windows.AdministrativeTools",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "winpty": {
         "name": "winpty",
@@ -6553,11 +6425,9 @@
     },
     "xbox": {
         "name": "Xbox",
-        "type": "uwp",
         "path": "",
         "appid": "Microsoft.GamingApp_8wekyb3d8bbwe!Microsoft.Xbox.App",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     },
     "xlicons": {
         "name": "xlicons",
@@ -6657,10 +6527,8 @@
     },
     "ætorrent": {
         "name": "æTorrent",
-        "type": "uwp",
         "path": "",
         "appid": "C:\\Users\\rudra\\AppData\\Roaming\\utorrent\\uTorrent.exe",
-        "install_location": "",
-        "aliases": []
+        "type": "uwp"
     }
 }
