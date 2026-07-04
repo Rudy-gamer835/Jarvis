@@ -1,4 +1,4 @@
-from modules.file_database import initialize_database
+from core.database import initialize_database
 
 # These functions will be connected in the next steps.
 # For now they can simply print messages.

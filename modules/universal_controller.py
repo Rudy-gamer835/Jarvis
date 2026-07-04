@@ -1,7 +1,7 @@
 import os
 
 from modules.universal_search import search_apps
-from modules.smart_search import search_files
+from core.search import search_files
 
 
 def open_item(query):

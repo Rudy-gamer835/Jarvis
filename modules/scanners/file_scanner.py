@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-from modules.file_database import (
+from core.database import (
     get_connection,
     initialize_database
 )
