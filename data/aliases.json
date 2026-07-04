@@ -1,0 +1,19 @@
+{
+    "chrome": "google chrome",
+    "google": "google chrome",
+
+    "vs": "visual studio code",
+    "vscode": "visual studio code",
+    "code": "visual studio code",
+
+    "word": "microsoft word",
+    "excel": "microsoft excel",
+    "ppt": "microsoft powerpoint",
+
+    "epic": "epic games launcher",
+    "steam": "steam",
+    "spotify": "spotify",
+    "discord": "discord",
+    "whatsapp": "whatsapp",
+    "xbox": "xbox"
+}

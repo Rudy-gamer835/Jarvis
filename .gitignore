@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Database cache (optional - keep if you don't want to version the index)
+# data/jarvis.db
+
+# OS files
+Thumbs.db
+.DS_Store
