@@ -1,16 +1,17 @@
 import sqlite3
 from pathlib import Path
 
+from core.ranking import calculate_score
+
 DB_PATH = Path("data/jarvis.db")
 
 
 def search_files(query, limit=10):
     """
-    Smart search for indexed files.
+    Smart search for indexed files and folders.
     """
 
     query = query.lower().strip()
-    words = query.split()
 
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -25,41 +26,25 @@ def search_files(query, limit=10):
 
     for row in cursor.fetchall():
 
-        score = 0
+        item = dict(row)
 
-        name = row["name"].lower()
-        folder = (row["folder"] or "").lower()
-        parent = (row["parent_folder"] or "").lower()
-        category = (row["category"] or "").lower()
-        keywords = (row["keywords"] or "").lower()
+        score = calculate_score(query, item)
 
-        for word in words:
+        if score <= 0:
+            continue
 
-            if word in name:
-                score += 100
-
-            if word in folder:
-                score += 40
-
-            if word in parent:
-                score += 60
-
-            if word in category:
-                score += 70
-
-            if word in keywords:
-                score += 80
-
-        if score > 0:
-            results.append({
-                "score": score,
-                "data": dict(row)
-            })
+        results.append({
+            "score": score,
+            "data": item
+        })
 
     conn.close()
 
     results.sort(
-        key=lambda x: (x["score"], x["data"]["modified"]),
+        key=lambda x: (
+            x["score"],
+            x["data"].get("modified", 0)
+        ),
         reverse=True
     )
 
@@ -90,6 +75,6 @@ if __name__ == "__main__":
             print(
                 f"{i}. "
                 f"{data['name']} "
-                f"({data['category']}) "
-                f"Score={item['score']}"
+                f"({data.get('category', 'Unknown')}) "
+                f"Score={item['score']:.2f}"
             )

@@ -6,8 +6,8 @@ from core.database import (
     initialize_database
 )
 
-from modules.search_rules import get_category
-from modules.keyword_generator import generate_keywords
+from core.search_rules import get_category
+from core.keyword_generator import generate_keywords
 
 # Folders to skip
 SKIP_FOLDERS = {
